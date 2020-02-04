@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\komputer 1\source\repos\project3\project3\myform.cpp(236): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\komputer 1\source\repos\project3\project3\myform.cpp(298): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Project3.vcxproj -> C:\Users\Komputer 1\source\repos\Setup4\x64\Debug\Project3.exe
